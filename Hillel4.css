@@ -1,0 +1,160 @@
+@font-face {
+    font-family: Shizuru;
+    src: url(./Font.css); 
+   }
+@font-face {
+    font-family: Akaya Telivigala;
+    src: url(./Font.css);
+}
+body {
+    background-image: url(./top-view-abstract-metallic-background-close-up.jpg);
+    background-size: 50% auto;
+}
+.mainImage{
+    box-align:middle;
+    width: 200px;
+    height: 200px;
+    border: 3px solid rgb(223, 64, 183);
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.firstText {
+    border: 2px;
+    border-radius: 10px;
+    border-color: rgb(223, 64, 183);
+    border-style: solid;
+    padding: 15px;
+    margin: 10px 30px 10px 30px;
+    font-family: Akaya Telivigala;
+    font-size: 18px; 
+    line-height: 160%;
+    background-color: rgb(235, 233, 154);
+}
+main{
+    vertical-align: top;
+}
+.tableWithButtons{
+    vertical-align: middle; 
+    margin-left: 40px;
+}
+.sectionClass{
+    height: auto;
+    width: auto;
+    display: inline-block;
+    text-align: center;
+    margin:30px;
+}
+.buttonRight{
+    border-radius: 60px;
+    background-color: rgb(235, 231, 38);
+    border: transparent; 
+    position:absolute;
+    right: 15px;
+    top: 965px; 
+    display: block;
+}
+.arrowImage{
+    width: 100px;
+    height: 100px;
+    display: fixed;
+    box-align: middle;
+    margin: auto;
+    display: block;
+}
+h2{
+    font-family: Shizuru;
+    font-size: 48px; 
+    line-height: 150%;
+    font-weight:bold;
+    text-shadow: 2px 2px rgb(22, 19, 187);
+    color: rgb(253, 253, 253);
+
+
+}
+.headingTwoRight{
+    width: auto;
+    border: 2px;
+    border-radius: 10px;
+    border-color: rgb(223, 64, 183);
+    border-style: solid;
+    padding: 212px;
+    background-color: rgb(176, 215, 228);
+}
+
+.headingTwoLeft{
+    width: auto;
+    border: 2px;
+    border-radius: 10px;
+    border-color: rgb(223, 64, 183);
+    border-style: solid;
+    padding: 212px;
+    background-color: rgb(228, 159, 235);
+
+}
+.buttonLeft{
+    border-radius: 60px;
+    background-color: rgb(235, 231, 38);
+    border: transparent; 
+    position:absolute;
+    left: 15px;
+    top: 965px; 
+    display: block;
+}
+.bottomSection{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: Shizuru;
+    text-shadow: 2px 2px rgb(22, 19, 187);
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: overline double;
+}
+.lastSecton1{
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    width:45%;
+}
+.skillSection{
+    margin: 20px 30px 20px 30px;
+    height: 50px;
+}
+.spanClass{
+    width:50%;
+    border-radius: 30px;
+    border-color: rgb(83, 24, 68);
+    border-style: solid;
+    border-width: 5px;
+    padding:15px 110px 15px 110px;
+    background-color: rgb(157, 240, 236);
+    font-family: Shizuru;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px rgb(223, 226, 32);
+    color: rgb(8, 185, 197);
+}
+.lastSecton2{
+    width:47%;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: rgb(223, 64, 183);
+    border-style: solid;
+    height: auto;
+    background-color: rgb(239, 250, 141);
+    vertical-align: bottom;
+}
+.bottomText{
+    text-align: center;
+    height: auto;
+    padding:10px;
+    font-family: Akaya Telivigala;
+    font-size: 18px; 
+    line-height: 160%;
+}
